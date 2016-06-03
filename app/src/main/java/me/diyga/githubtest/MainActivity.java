@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         TextView textView = (TextView) findViewById(R.id.textview);
-        textView.setText("test version 1");
+        textView.setText("test version 2");
     }
 }
